@@ -1,0 +1,12 @@
+{
+  "name": "chat-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:matthew5-cn/chat-service.git",
+  "author": "Matthew5 <jnwu@thoughtworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.17.1",
+    "socket.io": "~2.3.0"
+  }
+}
